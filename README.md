@@ -42,4 +42,5 @@ git checkout --filename # Hacer un reset a un fichero concreto antes de hacer co
 git reset HEAD^ # Elimina el último commit
 git commit --amend # Rectifica el último commit
 
+# CORREGIR UN COMMIT QUE HICE EN EL PASADO
 git rebase -i # Añadir e
